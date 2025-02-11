@@ -1,4 +1,5 @@
 # ⚙️ Commands
+
 .get systeminfo - Get information about the system.
 .system shutdown - Turning off the computer.
 .system crash - Imitation of a virus with a Winlocker.
